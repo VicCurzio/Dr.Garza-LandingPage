@@ -103,5 +103,6 @@ span {
 .fa-whatsapp {
     font-size: 3rem;
     position: absolute;
-    right: 2rem;
+    right: 1.5rem;
+    padding-bottom: 2rem;
 }
